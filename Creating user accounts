@@ -1,2 +1,10 @@
 # Create-a-domain-Admin-user-within-the-domain
 In this lab. We already installed active directory in the DC-1 VM in Azure. Now we creating user names  
+
+First, you want to Log into the DC-1 VM using the "MYDOMAIN.COM\LABUSER or whatever user account that you created along 
+with the password that you created as well. Go to the start menu and select " Active Directory Domain Services" This 
+display should come up 
+
+
+
+
