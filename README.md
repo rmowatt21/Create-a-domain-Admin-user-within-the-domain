@@ -28,6 +28,15 @@ In the select groups box at the bottom enter "domain" and click "check names" on
 
 to see if it works. Log out and log back in as Jane_admin user with the password. 
 
+Login to Client-1 as the original local admin (labuser) and join it to the domain (computer will restart).
+First go to start > settings > systems > About > Rename this PC (advanced) 
+> system properties, change > Comptuter Name/Domain changes >
+> Member of (mydomain.com) 
+![image](https://github.com/user-attachments/assets/fbaa979d-deed-45f4-abd9-0558d7e320ef)
+
+
+
+
 
 
 
